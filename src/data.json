@@ -5,7 +5,7 @@
       "title": "Dress1",
       "description": "About Dress1",
       "image": "/images/dress33.jpg",
-      "price": 1200,
+      "price": 100,
       "availableSizes": ["XL", "XXL", "X", "L"],
       "date": "31/01/2021",
       "breakfast": [
@@ -18,7 +18,7 @@
       "title": "Dress2",
       "description": "About Dress2",
       "image": "/images/dress38.jpg",
-      "price": 1300,
+      "price": 300,
       "availableSizes": ["XL", "XXL"],
       "date": "30/01/2021",
       "breakfast": [
